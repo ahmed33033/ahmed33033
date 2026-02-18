@@ -24,9 +24,9 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 1. ❗ Opened issue [#43563](https://github.com/timburgan/timburgan/issues/43563) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 2. ❗ Opened issue [#375](https://github.com/TanStack/cli/issues/375) in [TanStack/cli](https://github.com/TanStack/cli)
-3. 🔒 Closed issue [#1](https://github.com/UofT-Creates/healthy-ai/issues/1) in [UofT-Creates/healthy-ai](https://github.com/UofT-Creates/healthy-ai)
-4. 🎉 Merged PR [#2](https://github.com/UofT-Creates/healthy-ai/pull/2) in [UofT-Creates/healthy-ai](https://github.com/UofT-Creates/healthy-ai)
-5. 💪 Opened PR [#2](https://github.com/UofT-Creates/healthy-ai/pull/2) in [UofT-Creates/healthy-ai](https://github.com/UofT-Creates/healthy-ai)
+3. 🔒 Closed issue [#1](https://github.com/brain-up-ai/Definition/issues/1) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
+4. 🎉 Merged PR [#2](https://github.com/brain-up-ai/Definition/pull/2) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
+5. 💪 Opened PR [#2](https://github.com/brain-up-ai/Definition/pull/2) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
 <!--END_SECTION:activity-->
 
 <!--
