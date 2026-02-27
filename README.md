@@ -22,11 +22,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#43563](https://github.com/timburgan/timburgan/issues/43563) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗ Opened issue [#375](https://github.com/TanStack/cli/issues/375) in [TanStack/cli](https://github.com/TanStack/cli)
-3. 🔒 Closed issue [#1](https://github.com/brain-up-ai/Definition/issues/1) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
-4. 🎉 Merged PR [#2](https://github.com/brain-up-ai/Definition/pull/2) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
-5. 💪 Opened PR [#2](https://github.com/brain-up-ai/Definition/pull/2) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
+1. 🎉 Merged PR [#1](https://github.com/ahmed33033/learning_in_markdown/pull/1) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
+2. 💪 Opened PR [#1](https://github.com/ahmed33033/learning_in_markdown/pull/1) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
+3. ❗ Opened issue [#43563](https://github.com/timburgan/timburgan/issues/43563) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+4. ❗ Opened issue [#375](https://github.com/TanStack/cli/issues/375) in [TanStack/cli](https://github.com/TanStack/cli)
+5. 🔒 Closed issue [#1](https://github.com/brain-up-ai/Definition/issues/1) in [brain-up-ai/Definition](https://github.com/brain-up-ai/Definition)
 <!--END_SECTION:activity-->
 
 <!--
