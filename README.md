@@ -26,7 +26,7 @@ Finally, check out my most recent contributions and pinned repositories for inte
 2. 💪 Opened PR [#1](https://github.com/ahmed33033/learning_in_markdown/pull/1) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
 3. ❗ Opened issue [#43563](https://github.com/timburgan/timburgan/issues/43563) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 4. ❗ Opened issue [#375](https://github.com/TanStack/cli/issues/375) in [TanStack/cli](https://github.com/TanStack/cli)
-5. 🔒 Closed issue [#1](https://github.com/genai-usability/Brain-up-AI/issues/1) in [genai-usability/Brain-up-AI](https://github.com/genai-usability/Brain-up-AI)
+5. 🔒 Closed issue [#1](https://github.com/genai-use/Brain-up-AI/issues/1) in [genai-use/Brain-up-AI](https://github.com/genai-use/Brain-up-AI)
 <!--END_SECTION:activity-->
 
 <!--
