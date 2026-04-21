@@ -22,10 +22,10 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. ❗ Opened issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ❗ Opened issue [#43563](https://github.com/timburgan/timburgan/issues/43563) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗ Opened issue [#375](https://github.com/TanStack/cli/issues/375) in [TanStack/cli](https://github.com/TanStack/cli)
+1. 🎉 Merged PR [#1](https://github.com/ahmed33033/ai-dictionary/pull/1) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+2. 💪 Opened PR [#1](https://github.com/ahmed33033/ai-dictionary/pull/1) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+3. ℹ️ Labeled issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. ❗ Opened issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 5. 🔒 Closed issue [#1](https://github.com/genai-use/Brain-up-AI/issues/1) in [genai-use/Brain-up-AI](https://github.com/genai-use/Brain-up-AI)
 <!--END_SECTION:activity-->
 
