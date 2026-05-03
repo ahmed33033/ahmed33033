@@ -22,11 +22,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#2](https://github.com/ahmed33033/ai-dictionary/issues/2) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-2. 🎉 Merged PR [#1](https://github.com/ahmed33033/ai-dictionary/pull/1) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-3. 💪 Opened PR [#1](https://github.com/ahmed33033/ai-dictionary/pull/1) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-4. ℹ️ Labeled issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. ❗ Opened issue [#10394](https://github.com/shadcn-ui/ui/issues/10394) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🎉 Merged PR [#3](https://github.com/ahmed33033/ai-dictionary/pull/3) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+2. 🔒 Closed issue [#2](https://github.com/ahmed33033/ai-dictionary/issues/2) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+3. 💪 Opened PR [#3](https://github.com/ahmed33033/ai-dictionary/pull/3) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+4. ❗ Opened issue [#2](https://github.com/ahmed33033/ai-dictionary/issues/2) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+5. 🎉 Merged PR [#1](https://github.com/ahmed33033/ai-dictionary/pull/1) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
 <!--END_SECTION:activity-->
 
 <!--
