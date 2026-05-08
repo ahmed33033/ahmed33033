@@ -22,11 +22,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Assigned issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-2. ℹ️ Labeled issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-3. ❗ Opened issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-4. ℹ️ Assigned issue [#3](https://github.com/ahmed33033/learning_in_markdown/issues/3) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
-5. ℹ️ Labeled issue [#3](https://github.com/ahmed33033/learning_in_markdown/issues/3) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
+1. 🎉 Merged PR [#7](https://github.com/ahmed33033/ai-dictionary/pull/7) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+2. 🔒 Closed issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+3. 💪 Opened PR [#7](https://github.com/ahmed33033/ai-dictionary/pull/7) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+4. ℹ️ Assigned issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+5. ℹ️ Labeled issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
 <!--END_SECTION:activity-->
 
 <!--
