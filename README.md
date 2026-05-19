@@ -22,11 +22,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
-2. 💪 Opened PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
-3. 🎉 Merged PR [#7](https://github.com/ahmed33033/ai-dictionary/pull/7) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-4. 🔒 Closed issue [#6](https://github.com/ahmed33033/ai-dictionary/issues/6) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-5. 💪 Opened PR [#7](https://github.com/ahmed33033/ai-dictionary/pull/7) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+1. 🗣 Commented on [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239#issuecomment-4492138872) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+2. ❌ Closed PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+3. 💪 Opened PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+4. 🎉 Merged PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
+5. 💪 Opened PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
 <!--END_SECTION:activity-->
 
 <!--
