@@ -22,11 +22,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239#issuecomment-4492138872) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
-2. ❌ Closed PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
-3. 💪 Opened PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
-4. 🎉 Merged PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
-5. 💪 Opened PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
+1. 💪 Opened PR [#1](https://github.com/ahmed33033/devops-directive-github-actions-course/pull/1) in [ahmed33033/devops-directive-github-actions-course](https://github.com/ahmed33033/devops-directive-github-actions-course)
+2. 🗣 Commented on [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239#issuecomment-4492138872) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+3. ❌ Closed PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+4. 💪 Opened PR [#239](https://github.com/sidpalas/devops-directive-github-actions-course/pull/239) in [sidpalas/devops-directive-github-actions-course](https://github.com/sidpalas/devops-directive-github-actions-course)
+5. 🎉 Merged PR [#2](https://github.com/ahmed33033/skills-hello-github-actions/pull/2) in [ahmed33033/skills-hello-github-actions](https://github.com/ahmed33033/skills-hello-github-actions)
 <!--END_SECTION:activity-->
 
 <!--
