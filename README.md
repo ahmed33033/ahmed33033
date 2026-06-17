@@ -1,16 +1,8 @@
-## Hi.
-
-hold on i think that's a little too formal
-
-## Hi there! 👋
-
-now it just looks like chatgpt, wait
-
 ## Hey!
 
 My name is Ahmed Mohamed. Good meeting you!
 
-I am a student at UofT majoring in Computer Science & Sociology (weird mix i know).
+I am an upcoming graduate at UofT majoring in Computer Science & Sociology (weird mix i know).
 
 I like writing code and actually writing stuff.
 
