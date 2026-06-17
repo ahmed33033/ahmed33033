@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/ahmed33033/devops-directive-github-actions-course/pull/1) in [ahmed33033/devops-directive-github-actions-course](https://github.com/ahmed33033/devops-directive-github-actions-course)
-2. 🔒 Closed issue [#13553](https://github.com/cli/cli/issues/13553) in [cli/cli](https://github.com/cli/cli)
-3. 🗣 Commented on [#13553](https://github.com/cli/cli/issues/13553#issuecomment-4596475009) in [cli/cli](https://github.com/cli/cli)
-4. ❗ Opened issue [#13553](https://github.com/cli/cli/issues/13553) in [cli/cli](https://github.com/cli/cli)
-5. 💪 Opened PR [#1](https://github.com/ahmed33033/devops-directive-github-actions-course/pull/1) in [ahmed33033/devops-directive-github-actions-course](https://github.com/ahmed33033/devops-directive-github-actions-course)
+1. 🎉 Merged PR [#8](https://github.com/ahmed33033/ai-dictionary/pull/8) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+2. 💪 Opened PR [#8](https://github.com/ahmed33033/ai-dictionary/pull/8) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+3. 🎉 Merged PR [#1](https://github.com/ahmed33033/devops-directive-github-actions-course/pull/1) in [ahmed33033/devops-directive-github-actions-course](https://github.com/ahmed33033/devops-directive-github-actions-course)
+4. 🔒 Closed issue [#13553](https://github.com/cli/cli/issues/13553) in [cli/cli](https://github.com/cli/cli)
+5. 🗣 Commented on [#13553](https://github.com/cli/cli/issues/13553#issuecomment-4596475009) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 <!--
