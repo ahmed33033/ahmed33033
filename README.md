@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#16](https://github.com/ahmed33033/ai-dictionary/pull/16) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-2. 🔒 Closed issue [#11](https://github.com/ahmed33033/ai-dictionary/issues/11) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-3. 🎉 Merged PR [#15](https://github.com/ahmed33033/ai-dictionary/pull/15) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-4. 💪 Opened PR [#15](https://github.com/ahmed33033/ai-dictionary/pull/15) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
-5. ❌ Closed PR [#12](https://github.com/mermaid-maker/action/pull/12) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+1. 🎉 Merged PR [#14](https://github.com/mermaid-maker/action/pull/14) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+2. 🔒 Closed issue [#13](https://github.com/mermaid-maker/action/issues/13) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+3. 💪 Opened PR [#14](https://github.com/mermaid-maker/action/pull/14) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+4. ❗ Opened issue [#13](https://github.com/mermaid-maker/action/issues/13) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+5. ❗ Opened issue [#17](https://github.com/ahmed33033/ai-dictionary/issues/17) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
 <!--END_SECTION:activity-->
 
 <!--
