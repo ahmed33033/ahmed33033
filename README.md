@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#17](https://github.com/mermaid-maker/action/pull/17) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-2. ❗ Opened issue [#16](https://github.com/mermaid-maker/action/issues/16) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-3. 🎉 Merged PR [#14](https://github.com/mermaid-maker/action/pull/14) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-4. 🔒 Closed issue [#13](https://github.com/mermaid-maker/action/issues/13) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-5. 💪 Opened PR [#14](https://github.com/mermaid-maker/action/pull/14) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+1. 🔒 Closed issue [#16](https://github.com/mermaid-maker/action/issues/16) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+2. 🎉 Merged PR [#17](https://github.com/mermaid-maker/action/pull/17) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+3. 💪 Opened PR [#17](https://github.com/mermaid-maker/action/pull/17) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+4. ❗ Opened issue [#16](https://github.com/mermaid-maker/action/issues/16) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+5. 🎉 Merged PR [#14](https://github.com/mermaid-maker/action/pull/14) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
 <!--END_SECTION:activity-->
 
 <!--
