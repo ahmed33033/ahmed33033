@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.3](https://github.com/mermaid-maker/action/releases/tag/v1.0.3) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-2. 🚀 Published release [v1.0.2](https://github.com/mermaid-maker/action/releases/tag/v1.0.2) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-3. 🚀 Published release [v1.0.1](https://github.com/mermaid-maker/action/releases/tag/v1.0.1) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-4. 🚀 Published release [v1.0.0](https://github.com/mermaid-maker/action/releases/tag/v1.0.0) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
-5. 🔒 Closed issue [#18](https://github.com/mermaid-maker/action/issues/18) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+1. 💪 Opened PR [#19](https://github.com/ahmed33033/ai-dictionary/pull/19) in [ahmed33033/ai-dictionary](https://github.com/ahmed33033/ai-dictionary)
+2. 🚀 Published release [v1.0.3](https://github.com/mermaid-maker/action/releases/tag/v1.0.3) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+3. 🚀 Published release [v1.0.2](https://github.com/mermaid-maker/action/releases/tag/v1.0.2) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+4. 🚀 Published release [v1.0.1](https://github.com/mermaid-maker/action/releases/tag/v1.0.1) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
+5. 🚀 Published release [v1.0.0](https://github.com/mermaid-maker/action/releases/tag/v1.0.0) in [mermaid-maker/action](https://github.com/mermaid-maker/action)
 <!--END_SECTION:activity-->
 
 <!--
