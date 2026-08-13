@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#12](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/12) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-2. 🎉 Merged PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-3. 💪 Opened PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-4. 🎉 Merged PR [#19](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/19) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-5. 🔒 Closed issue [#17](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/17) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+1. ❗ Opened issue [#1144](https://github.com/mermaid-js/mermaid-cli/issues/1144) in [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
+2. 🔒 Closed issue [#12](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/12) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+3. 🎉 Merged PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+4. 💪 Opened PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+5. 🎉 Merged PR [#19](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/19) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 <!--END_SECTION:activity-->
 
 <!--
