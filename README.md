@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1144](https://github.com/mermaid-js/mermaid-cli/issues/1144) in [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
-2. 🔒 Closed issue [#12](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/12) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-3. 🎉 Merged PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-4. 💪 Opened PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-5. 🎉 Merged PR [#19](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/19) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+1. ℹ️ Labeled issue [#264](https://github.com/eslint/create-config/issues/264) in [eslint/create-config](https://github.com/eslint/create-config)
+2. ❗ Opened issue [#264](https://github.com/eslint/create-config/issues/264) in [eslint/create-config](https://github.com/eslint/create-config)
+3. ❗ Opened issue [#1144](https://github.com/mermaid-js/mermaid-cli/issues/1144) in [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
+4. 🔒 Closed issue [#12](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/12) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+5. 🎉 Merged PR [#20](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/20) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 <!--END_SECTION:activity-->
 
 <!--
