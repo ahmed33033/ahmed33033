@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#21](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/21) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-2. 💪 Opened PR [#265](https://github.com/eslint/create-config/pull/265) in [eslint/create-config](https://github.com/eslint/create-config)
-3. 🗣 Commented on [#264](https://github.com/eslint/create-config/issues/264#issuecomment-5350346721) in [eslint/create-config](https://github.com/eslint/create-config)
-4. ℹ️ Labeled issue [#264](https://github.com/eslint/create-config/issues/264) in [eslint/create-config](https://github.com/eslint/create-config)
-5. ❗ Opened issue [#264](https://github.com/eslint/create-config/issues/264) in [eslint/create-config](https://github.com/eslint/create-config)
+1. ℹ️ Labeled PR [#22](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/22) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+2. ℹ️ Assigned PR [#22](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/22) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+3. 💪 Opened PR [#22](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/22) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+4. ❗ Opened issue [#21](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/21) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+5. 💪 Opened PR [#265](https://github.com/eslint/create-config/pull/265) in [eslint/create-config](https://github.com/eslint/create-config)
 <!--END_SECTION:activity-->
 
 <!--
