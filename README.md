@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v2.0.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.0.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-2. 🔒 Closed issue [#21](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/21) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-3. 🎉 Merged PR [#22](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/22) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-4. 🎉 Merged PR [#1143](https://github.com/mermaid-js/mermaid-cli/pull/1143) in [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
-5. 🗣 Commented on [#1143](https://github.com/mermaid-js/mermaid-cli/pull/1143#issuecomment-5415397141) in [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli)
+1. 🚀 Published release [v2.2.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.2.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+2. 🚀 Published release [v1.1.4](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/v1.1.4) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+3. 🚀 Published release [v2.1.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.1.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+4. 🚀 Published release [v1.1.2](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/v1.1.2) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+5. 🚀 Published release [v2.0.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.0.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
 <!--END_SECTION:activity-->
 
 <!--
