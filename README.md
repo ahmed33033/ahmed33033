@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v2.2.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.2.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-2. 🚀 Published release [v1.1.4](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/v1.1.4) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
-3. 🚀 Published release [v2.1.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.1.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-4. 🚀 Published release [v1.1.2](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/v1.1.2) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
-5. 🚀 Published release [v2.0.0](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.0.0) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+1. 🚀 Published release [v1.1.5](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/v1.1.5) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+2. 🚀 Published release [v1.1.5](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/untagged-fc9d24579a0ac8fe04da) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+3. 🚀 Published release [v1.1.5](https://github.com/kinda-cool-actions/mermaid-maker/releases/tag/untagged-22c674d1b809a429f152) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+4. ℹ️ Labeled PR [#25](https://github.com/kinda-cool-actions/mermaid-maker/pull/25) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
+5. ℹ️ Unlabeled PR [#25](https://github.com/kinda-cool-actions/mermaid-maker/pull/25) in [kinda-cool-actions/mermaid-maker](https://github.com/kinda-cool-actions/mermaid-maker)
 <!--END_SECTION:activity-->
 
 <!--
