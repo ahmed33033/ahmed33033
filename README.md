@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v2.5.3](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.3) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-2. 🚀 Published release [v2.5.2](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.2) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-3. 🚀 Published release [v2.5.1](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.1) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-4. 🚀 Published release [v2.5.1](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/untagged-49f48339bfac82713a03) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
-5. 🚀 Published release [v2.5.2](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/untagged-b1a863dcd80e1249eda7) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+1. 🗣 Commented on [#3](https://github.com/ahmed33033/learning_in_markdown/issues/3#issuecomment-5518840762) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
+2. 🔒 Closed issue [#3](https://github.com/ahmed33033/learning_in_markdown/issues/3) in [ahmed33033/learning_in_markdown](https://github.com/ahmed33033/learning_in_markdown)
+3. 🚀 Published release [v2.5.3](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.3) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+4. 🚀 Published release [v2.5.2](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.2) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+5. 🚀 Published release [v2.5.1](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.1) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
 <!--END_SECTION:activity-->
 
 <!--
