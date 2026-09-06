@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-2. ℹ️ Unlabeled issue [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-3. ℹ️ Labeled issue [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-4. 🗣 Commented on [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25#issuecomment-5555493589) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-5. ℹ️ Labeled issue [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+1. 🔒 Closed issue [#25](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/25) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+2. 🎉 Merged PR [#27](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/27) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+3. 💪 Opened PR [#27](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/27) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+4. 🎉 Merged PR [#26](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/26) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+5. 💪 Opened PR [#26](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/26) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 <!--END_SECTION:activity-->
 
 <!--
