@@ -14,11 +14,11 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-2. 🔒 Closed issue [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-3. 💪 Opened PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-4. ℹ️ Labeled issue [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
-5. 🗣 Commented on [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36#issuecomment-5719011521) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+1. 🚀 Published release [v2.5.5](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.5) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+2. 🎉 Merged PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+3. 🔒 Closed issue [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+4. 💪 Opened PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
+5. ℹ️ Labeled issue [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 <!--END_SECTION:activity-->
 
 <!--
