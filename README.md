@@ -14,7 +14,7 @@ Finally, check out my most recent contributions and pinned repositories for inte
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v2.5.5](https://github.com/kinda-cool-actions/find-and-replace.js/releases/tag/v2.5.5) in [kinda-cool-actions/find-and-replace.js](https://github.com/kinda-cool-actions/find-and-replace.js)
+1. 🗣 Commented on [#265](https://github.com/eslint/create-config/pull/265#issuecomment-6637740874) in [eslint/create-config](https://github.com/eslint/create-config)
 2. 🎉 Merged PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 3. 🔒 Closed issue [#36](https://github.com/simpleaidictionary/simpleaidictionary.github.io/issues/36) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
 4. 💪 Opened PR [#37](https://github.com/simpleaidictionary/simpleaidictionary.github.io/pull/37) in [simpleaidictionary/simpleaidictionary.github.io](https://github.com/simpleaidictionary/simpleaidictionary.github.io)
