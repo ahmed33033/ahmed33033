@@ -2,7 +2,7 @@
 
 My name is Ahmed Mohamed. Good meeting you!
 
-I am an upcoming graduate at UofT majoring in Computer Science & Sociology (weird mix i know).
+I graduated from UofT after majoring in Computer Science & Sociology (weird mix i know).
 
 I like writing code and actually writing stuff.
 
